@@ -1,0 +1,44 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 10px 1px rgb(151, 151, 151);
+    margin: 0;
+    white-space: normal;
+}
+
+.note {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Carter One', cursive;
+    line-height: 30px;
+    padding: 10px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+canvas {
+    border: 10px solid gray;
+}
+
+html, body {
+    background-color: black;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Carter One', cursive;
+    line-height: 30px;
+    padding: 10px;  
+}
